@@ -5,12 +5,12 @@
     border: 1px solid black;
 }
 
-botones{
+.botones{
     display: flex;
     justify-content: space-evenly;
 }
 
-venta{
+.venta{
     display: flex;
     justify-content: space-evenly;
     padding: 5%;
